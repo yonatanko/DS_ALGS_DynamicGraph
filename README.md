@@ -1,2 +1,1 @@
-Project instructions:
-[DS_ALGS_assignment.pdf](https://github.com/yonatanko/DS_ALGS_DynamicGraph/files/13195630/DS_ALGS_assignment.pdf)
+This project focuses on the implementation and manipulation of dynamic graphs using Java. It involves creating classes to represent graph nodes, edges, and trees, and implementing algorithms for adding/removing elements and performing graph searches. The goal is to demonstrate an understanding of graph theory and its application in programming. The repository contains Java files for the classes and algorithms, along with instructions and examples demonstrating the functionality of the implemented structures and algorithms.
